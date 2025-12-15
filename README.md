@@ -21,7 +21,7 @@
 
 ## 🤝 Let's connect!
 
-* **✉️ Email:** [Enter your email here]
+* **✉️ Email:** [rahimeg5236@gmail.com]
 * **🔗 LinkedIn:** [Enter your LinkedIn profile link]
 * **🌐 Personal Website (if any):** [Enter your website link]
 
