@@ -1,23 +1,23 @@
 # 👋 Hello there! I'm Abdulrahman Ayman
 
-### A [Mention your field here: e.g., Web, Mobile, AI, etc.] Developer passionate about technology and innovation.
+### A [Web] Developer passionate about technology and innovation.
 
 ---
 
 ## 🔭 What I'm currently working on
 
-* I'm currently focusing on expanding my skills in **[Mention the main technology you're learning/using]**, such as [Example: ReactJS / Python / Kotlin].
-* I am working on a project named **[Mention your current project name or idea]**, which aims to [Mention the brief goal].
-* I'm looking for opportunities to contribute to [Mention the type of projects: Open Source, Private, etc.] projects.
+* I'm currently focusing on expanding my skills in **[AI]**, such as [Example: ReactJS / Python / Kotlin].
+* I am working on a project named **[Moving robot]**, which aims to [Assistance with daily chores].
+* I'm looking for opportunities to contribute to [Open Source] projects.
 
 ## 🌱 My Preferred Skills and Technologies
 
 | Category | Technologies and Languages |
 | :--- | :--- |
-| **Programming Languages** | `[Python]`، `[JavaScript]`، `[Java]`، `[C++]`، `[...]` |
+| **Programming Languages** | `[Python]`، `[JavaScript]`، `[Java]`، `[C++]`، `[AI]` |
 | **Web Development (Frontend)** | `[HTML5]`، `[CSS3]`، `[React / Vue / Angular]` |
 | **Web Development (Backend)** | `[Node.js]`، `[Django / Flask]`، `[SQL / MongoDB]` |
-| **Other Tools** | `[Git]`، `[Docker]`، `[Linux]`، `[...]` |
+| **Other Tools** | `[Git]`، `[Docker]`، `[Linux]` |
 
 ## 🤝 Let's connect!
 
