@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Abdulrahman Ayman
 
-### A [Web] Developer passionate about technology and innovation.
+### A Web Developer passionate about technology and innovation.
 
 ---
 
